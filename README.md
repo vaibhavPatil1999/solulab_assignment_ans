@@ -1,8 +1,8 @@
 
 # how to start
-cd solulab_assignment_ans
-npm install
-nodemon start
+cd solulab_assignment_ans<br>
+npm install<br>
+nodemon start<br>
 
 # API
 ### test using postman (body - raw,json)
