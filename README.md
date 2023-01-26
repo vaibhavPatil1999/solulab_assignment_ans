@@ -3,6 +3,7 @@
 cd solulab_assignment_ans<br>
 npm install<br>
 nodemon start<br>
+note - (please change config in connection.js)
 
 # API
 ### test using postman (body - raw,json)
