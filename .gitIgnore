@@ -1,0 +1,4 @@
+.env
+info.log
+warn.log
+error.log
